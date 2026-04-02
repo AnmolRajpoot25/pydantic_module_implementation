@@ -39,7 +39,7 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 
-```
+
 ▶️ Usage
 jupyter notebook
 Open pydantic_module.ipynb
